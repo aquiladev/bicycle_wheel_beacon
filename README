@@ -1,0 +1,10 @@
+<h3>Велосипедный маячок</h3>
+<p>Прошивка на Arduino (Duemilanove)</p>
+<p>Девайс вешается на колесо по всему ободу с 2х сторон. На нем расположены диоды по 9 шт. на каждой стороне.</p>
+<p>При движении велосипеда загорается дальний верхний сектор девайса, что создает эффект велосипедного маячка.</p>
+<p></p>
+
+<h3>BICYCLES BEACON</h3>
+<p>Hardware on Arduino (Duemilanove)</p>
+<p>Device stand on wheel vertically. It is on both sides of rim. He has a nine diodes on each sides.</p>
+<p>While a bicycle is driving top far sector of device is burning. Effect beacon.</p>
