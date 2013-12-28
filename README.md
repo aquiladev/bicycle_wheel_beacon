@@ -1,5 +1,4 @@
-BICYCLE BEACON
-==============
+## BICYCLE BEACON
 
 Firmware on Arduino (Duemilanove)
 The device is to be hanged on a bike's wheel through whole rim on both sides. Each side of the device is set up with 9 diodes.
